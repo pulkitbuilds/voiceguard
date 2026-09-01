@@ -93,7 +93,7 @@ The proposed framework is designed to process live or near-live audio, extract d
 
 # 🔍 Key Features
 
-## 1. Multi-Layer Voice Authenticity Analysis
+## Multi-Layer Voice Authenticity Analysis
 
 VoiceGuard analyzes several characteristics of speech rather than relying on a single classifier.
 
